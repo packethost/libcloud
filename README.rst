@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Stability-EndOfLife-black.svg)
+.. image:: https://img.shields.io/badge/Stability-EndOfLife-black.svg
 
 ## End of Life Statement
 
